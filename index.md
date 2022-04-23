@@ -45,10 +45,10 @@
 #### 图片
 ```
 
-[!Image](https://biliciyun.cf/background.jpg)
+![Image](https://biliciyun.cf/background.jpg)
 
 ``` Markdown
-[!Image](https://biliciyun.cf/background.jpg)
+![Image](https://biliciyun.cf/background.jpg)
 ```
 
 ##### 大图片
