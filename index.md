@@ -32,16 +32,6 @@
 
 推荐使用[苦力怕论坛](https://klpbbs.com/xz/)下载<br>
 
-Markdown
-
-```
-
-#### 图片
-
-``` Markdown
-#### 图片
-```
-
 ![Image](https://biliciyun.cf/background.jpg)
 
 ``` Markdown
