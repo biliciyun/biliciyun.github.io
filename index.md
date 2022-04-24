@@ -4,8 +4,8 @@
 # 这是我的小站
 
 
-## 我最喜欢的歌曲<br>
-<script src=“https://sdk.jinrishici.com/v2/browser/jinrishici.js” charset=“utf-8”></script><iframeborder=“no” border=“0” marginwidth=“0” marginheight=“0” width=340 height=86 src=“//music.163.com/outchain/player?type=2&id=1808492017&auto=0&height=66”></iframe>
+## 我的精品游戏视频<br>
+<iframe src="//player.bilibili.com/player.html?aid=80433022&bvid=BV1GJ411x7h7&cid=137649199&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## 我的相关<br>
  [B站](https://space.bilibili.com/2066547841?spm_id_from=333.1007.0.0)<br>
