@@ -5,7 +5,7 @@
 
 
 ## 我的精品游戏视频<br>
-<iframe src=“//player.bilibili.com/player.html?aid=80433022&bvid=BV1GJ411x7h7&cid=137649199&page=1&high_quality=1” allowfullscreen=“allowfullscreen” width=“100%” height=“500” scrolling=“no” frameborder=“0” sandbox=“allow-top-navigation allow-same-origin allow-forms allow-scripts”></iframe>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1GJ411x7h7&cid=137649199&page=1" scrolling="no" border="0" frameborder="no" framespacing="0"></iframe>
 
 ## 我的相关<br>
  [B站](https://space.bilibili.com/2066547841?spm_id_from=333.1007.0.0)<br>
