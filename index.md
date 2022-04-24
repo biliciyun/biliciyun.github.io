@@ -37,22 +37,4 @@
 ``` Markdown
 ![Image](https://biliciyun.cf/background.jpg)
 
-##### 大图片
-```
-![Branching](https://biliciyun.cf/background.jpg)
 
-``` Markdown
-![Branching](https://biliciyun.cf/background.jpg)
-```
-
-###### 小图片
-
-``` Markdown
-###### 小图片
-```
-
-![Octocat](https://biliciyun.cf/background.jpg)
-
-``` Markdown
-![Octocat](https://biliciyun.cf/background.jpg)
-```
