@@ -30,8 +30,5 @@
 
 推荐使用[苦力怕论坛](https://klpbbs.com/xz/)下载<br>
 
-
-``` Markdown
-![Image](https://biliciyun.cf/background.jpg)
-
-
+# -------the end-------
+## 欢迎下次访问，本站永久链接[biliciyunの小窝](https://biliciyun.cf/)
