@@ -1,6 +1,6 @@
 # 欢迎
 ![QQ图片20220328153704](https://user-images.githubusercontent.com/104074660/164951914-435c1516-3b34-4a64-9da1-d264f2c4b6be.jpg)
-
+# 到今来，海角逢春，天涯为客。
 # 这是我的小站
 
 
@@ -32,7 +32,6 @@
 
 推荐使用[苦力怕论坛](https://klpbbs.com/xz/)下载<br>
 
-![Image](https://biliciyun.cf/background.jpg)
 
 ``` Markdown
 ![Image](https://biliciyun.cf/background.jpg)
