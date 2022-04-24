@@ -19,14 +19,20 @@
 服务器地址：414749b1l8.51vip.biz:43311<br>
 欢迎来玩哦<br>
 
-``` Markdown
-### 这个我也不知道怎么叫
+ Markdown
+### 游戏下载<br>
 
-> 233<br>
-> 666<br>
-> [哔哩哔哩](https://www.bilibili.com)
+                提供的游戏下载链接非正版，请支持正版<br>
 
-``` Markdown
+电脑端游戏下载<br>
+
+pcl2：[pcl2](https://afdian.net/p/0164034c016c11ebafcb52540025c377)<br>
+
+手机端游戏下载<br>
+
+[苦力怕论坛](https://klpbbs.com/xz/)<br>
+
+Markdown
 > 233<br>
 > 666<br>
 > [哔哩哔哩](https://www.bilibili.com)
