@@ -5,8 +5,8 @@
 
 
 ## 我最喜欢的歌曲<br>
-[错位时空](https://music.163.com/song?id=1808492017&userid=4055772206)<br>
-<iframe src="//https://music.163.com/song?id=1808492017&userid=4055772206" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+ <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="350" height="86" src="//music.163.com/outchain/player?type=2&amp;id=4055772206&amp;auto=1&amp;height=66"></iframe><br>
+
 # 我的相关<br>
  [B站](https://space.bilibili.com/2066547841?spm_id_from=333.1007.0.0)<br>
  [qq群](https://jq.qq.com/?_wv=1027&k=jLA41A2c)
