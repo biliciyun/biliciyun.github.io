@@ -1,12 +1,21 @@
 # 欢迎访问
 ## 到今来，海角逢春，天涯为客。<br>
-   <iframe src="//music.163.com/outchain/player?type=2&id=1808492017&auto=0&height=66" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<div align="center">
+  <iframe src="//music.163.com/outchain/player?type=2&id=1808492017&auto=0&height=66" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</div>
 
 ------------
 
 ## 我的精品游戏视频
-<iframe src="//player.bilibili.com/player.html?bvid=BV1GJ411x7h7&cid=137649199&page=1" scrolling="no" border="0" frameborder="no" framespacing="0"></iframe>
-<iframe src="//player.bilibili.com/player.html?aid=927070335&bvid=BV1wT4y1A7fC&cid=232719671&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<div align="center">
+  <iframe src="//player.bilibili.com/player.html?bvid=BV1GJ411x7h7&cid=137649199&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+</div>
+
+<div align="center">
+  <iframe src="//player.bilibili.com/player.html?aid=927070335&bvid=BV1wT4y1A7fC&cid=232719671&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
+</div>
 
 ## 我的相关<br>
  [B站](https://space.bilibili.com/2066547841?spm_id_from=333.1007.0.0)<br>
@@ -26,7 +35,9 @@
 
 ## 游戏下载<br>
 
-                提供的游戏下载链接非正版，请支持正版
+``` Markdown
+提供的游戏下载链接非正版，请支持正版
+```
 
 电脑端游戏下载<br>
 
@@ -37,6 +48,5 @@
 推荐使用[苦力怕论坛](https://klpbbs.com/xz/)下载<br>
 
 # -------the end-------
-## 欢迎下次访问，本站永久链接[biliciyunの小窝](https://biliciyun.cf/)
+## 欢迎下次访问，本站永久链接<a href="https://biliciyun.cf" style="color: #FB7299">biliciyunの小窝</a>
 ----------
-<a href="https://icp.gov.moe/?keyword=20222249" target="_blank">萌ICP备20222249号</a>
