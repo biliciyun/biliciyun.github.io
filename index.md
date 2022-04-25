@@ -1,6 +1,6 @@
 # 欢迎访问
 ## 到今来，海角逢春，天涯为客。<br>
-
+------------
 
 ## 我的精品游戏视频
 <iframe src="//player.bilibili.com/player.html?bvid=BV1GJ411x7h7&cid=137649199&page=1" scrolling="no" border="0" frameborder="no" framespacing="0"></iframe>
@@ -8,6 +8,10 @@
 ## 我的相关<br>
  [B站](https://space.bilibili.com/2066547841?spm_id_from=333.1007.0.0)<br>
  [qq群](https://jq.qq.com/?_wv=1027&k=jLA41A2c)
+ 
+ ## 二次元照片
+ [猫羽雫下载](https://pan.baidu.com/s/1DjSzz8DtzYrtDpywOA_pCw)
+ 密码：23z1
 
 ## 我的服务器
 游戏模式：生存<br>
