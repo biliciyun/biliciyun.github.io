@@ -1,6 +1,6 @@
 # 欢迎访问
 ## 到今来，海角逢春，天涯为客。<br>
-<script src=“https://sdk.jinrishici.com/v2/browser/jinrishici.js” charset=“utf-8”></script><iframeborder=“no” border=“0” marginwidth=“0” marginheight=“0” width=340 height=86 src=“//music.163.com/outchain/player?type=2&id=1808492017&auto=0&height=66”></iframe>
+<iframe src="//music.163.com/outchain/player?type=2&id=1808492017&auto=0&height=66”" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 ------------
 
 ## 我的精品游戏视频
@@ -10,7 +10,7 @@
 ## 我的相关<br>
  [B站](https://space.bilibili.com/2066547841?spm_id_from=333.1007.0.0)<br>
  [qq群](https://jq.qq.com/?_wv=1027&k=jLA41A2c)
- 
+
 ## 二次元照片
  [猫羽雫下载](https://pan.baidu.com/s/1DjSzz8DtzYrtDpywOA_pCw)<br>
  密码：23z1
