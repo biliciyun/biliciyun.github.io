@@ -5,6 +5,7 @@
 ## 我的精品游戏视频
 <iframe src="//player.bilibili.com/player.html?bvid=BV1GJ411x7h7&cid=137649199&page=1" scrolling="no" border="0" frameborder="no" framespacing="0"></iframe>
 <iframe src="//player.bilibili.com/player.html?aid=927070335&bvid=BV1wT4y1A7fC&cid=232719671&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=333231998&bvid=BV1rA411g7q8&cid=346917516&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 ## 我的相关<br>
  [B站](https://space.bilibili.com/2066547841?spm_id_from=333.1007.0.0)<br>
  [qq群](https://jq.qq.com/?_wv=1027&k=jLA41A2c)
