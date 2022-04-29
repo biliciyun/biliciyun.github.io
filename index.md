@@ -25,6 +25,7 @@
  
  ## 自制系统百宝箱（精简）
   [2380系统工具](https://pan.baidu.com/s/1giXymVwOR6IqYDqy7FyphA)<br>
+  密码：7nd6
 
 ## 我的服务器
 游戏模式：生存<br>
