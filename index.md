@@ -25,9 +25,11 @@
  
 ## 自制系统百宝箱<br>
  [2380系统工具](https://pan.baidu.com/s/1T4CgI396RVTgfWSb1S20Xg)<br>
-  密码：du59<br>
+ 文件大小：112mb，密码：du59<br>
  [2380系统应急工具](https://pan.baidu.com/s/11Ni1OWWywPCH58IK56vLEg)<br>
-  密码：bnyk
+ 文件大小：56.2mb，密码：bnyk<br>
+  [2380硬件检测工具](https://pan.baidu.com/s/1V7fewC_yQZxrrGS1cv8zRw)<br>
+ 文件大小：3.60mb，密码：wryj<br>
   
 ## 我的服务器
 游戏模式：生存<br>
