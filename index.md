@@ -17,8 +17,8 @@
 
 ## 我的相关<br>
  [B站](https://space.bilibili.com/2066547841?spm_id_from=333.1007.0.0)<br>
- [qq群](https://jq.qq.com/?_wv=1027&k=jLA41A2c)<br>
  [网易云](http://music.163.com/m/user/home?id=4055772206)<br>
+ [冬优服务器官方qq群](https://jq.qq.com/?_wv=1027&k=EQc0FDv4)<br>
  
 ## 二次元照片<br>
  [猫羽雫下载](https://pan.baidu.com/s/1DjSzz8DtzYrtDpywOA_pCw)<br>
@@ -59,6 +59,7 @@
 手机端游戏下载<br>
 
 推荐使用[苦力怕论坛](https://klpbbs.com/xz/)下载<br>
+或者使用[冬優ちゃんの小窝](https://www.fuibafuyu.cn/Minecraft_for_Android)下载<br>
 
 # -------the end-------
 ## 欢迎下次访问，本站永久链接<a href="https://biliciyun.cf" style="color: #FB7299">biliciyunの小窝</a>
