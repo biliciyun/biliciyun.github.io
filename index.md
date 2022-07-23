@@ -2,7 +2,7 @@
 ## 到今来，海角逢春，天涯为客。<br>
 
 <div align="center">
-  <iframe src="//music.163.com/outchain/player?type=2&id=404784667&auto=0&height=66" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+  <iframe src="//music.163.com/outchain/player?type=2&id=30352477&auto=0&height=66" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
 ## 我的精品游戏视频
@@ -67,12 +67,13 @@
 # 本网站公告栏
 注意：！！当前有通知！！
 更新周期：5-6day
-更新时间：2022-07-09 09：40
-本期：20220709<br>
-20220709期通知
+更新时间：2022-07-23 20：47
+本期：20220723<br>
+20220723期通知<br>
 1.本公告栏每周必会更新一次，音乐每周更新1次<br>
 2.当前网站可通过QQ直接打开，已通过安心计划<br>
-3.本周歌曲更新至：流群Meteor Stream<br>
+3.本周歌曲更新至：渔舟唱晚（cut版）<br>
 4.每周音乐随机在我的网易云歌单中随机<br>
 5.本网站最终解释权归biliciyun（次元幻相的金）所有<br>
 6.友链请联系QQ
+7.已开启QQ机器人至ciyun
