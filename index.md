@@ -22,19 +22,9 @@
  [猫羽雫下载](https://pan.baidu.com/s/1DjSzz8DtzYrtDpywOA_pCw)<br>
  密码：23z1
  
-## 打包系统百宝箱<br>
- [2380系统万能工具.zip](https://pan.baidu.com/s/1T4CgI396RVTgfWSb1S20Xg)<br>
- 文件大小：112mb，密码：du59<br>
- ![QQ截图20220429162753](https://user-images.githubusercontent.com/104074660/165910123-d21ece0a-9789-4fef-a253-73fc3fee9983.png)
- [2380系统应急工具.zip](https://pan.baidu.com/s/11Ni1OWWywPCH58IK56vLEg)<br>
- 文件大小：56.2mb，密码：bnyk<br>
- ![QQ截图20220429162850](https://user-images.githubusercontent.com/104074660/165910323-6d41754e-700a-466a-a994-b801950d4aa8.png)
-  [2380硬件检测工具.zip](https://pan.baidu.com/s/1V7fewC_yQZxrrGS1cv8zRw)<br>
- 文件大小：3.60mb，密码：wryj<br>
- ![QQ截图20220429163007](https://user-images.githubusercontent.com/104074660/165910482-d618b67f-cfb3-4fe3-a84c-d03ce3c004e0.png)
-
+ ## 自认为有用的东西
+  [2380工具](https://biliciyun.cf/2380download)<br>
  
-  
 ## 我的服务器(已经报废)
 游戏模式：生存<br>
 游戏难度：困难<br>
