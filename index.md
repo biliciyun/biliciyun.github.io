@@ -1,5 +1,3 @@
-# 欢迎访问
-## 到今来，海角逢春，天涯为客。<br>
 
 <div align="center">
   <iframe src="//music.163.com/outchain/player?type=2&id=30352477&auto=0&height=66" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
