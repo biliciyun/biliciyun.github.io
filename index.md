@@ -2,16 +2,9 @@
 <div align="center">
   <iframe src="//music.163.com/outchain/player?type=2&id=30352477&auto=0&height=66" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
-
-## 我的精品游戏视频
-
-<div align="center">
-  <iframe src="//player.bilibili.com/player.html?bvid=BV1GJ411x7h7&cid=137649199&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</div>
-
-<div align="center">
-  <iframe src="//player.bilibili.com/player.html?aid=927070335&bvid=BV1wT4y1A7fC&cid=232719671&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
-</div>
+## 版权相关<br>
+首先欢迎访问本网站，本网站拥有者一份免责声明，如果不同意，请立即退出本网站，否则即视为同意条款！<br>
+ [免责条款](http://biliciyun.cf/bqsm)<br>
 
 ## 我的相关<br>
  [B站](https://space.bilibili.com/2066547841?spm_id_from=333.1007.0.0)<br>
@@ -22,7 +15,7 @@
  [猫羽雫下载](https://pan.baidu.com/s/1DjSzz8DtzYrtDpywOA_pCw)<br>
  密码：23z1
  
- ## 自认为有用的东西
+ ## 自认为有用的东西<br>
   [2380工具](https://biliciyun.cf/2380download)<br>
  
 ## 我的服务器(已经报废)
@@ -49,14 +42,24 @@
 推荐使用[苦力怕论坛](https://klpbbs.com/xz/)下载<br>
 或者使用[冬優ちゃんの小窝](https://www.fuibafuyu.cn/Minecraft_for_Android)下载<br>
 
+## 我的精品游戏视频
+
+<div align="center">
+  <iframe src="//player.bilibili.com/player.html?bvid=BV1GJ411x7h7&cid=137649199&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+</div>
+
+<div align="center">
+  <iframe src="//player.bilibili.com/player.html?aid=927070335&bvid=BV1wT4y1A7fC&cid=232719671&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
+</div>
+
 # -------the end-------
 ## 欢迎下次访问，本站永久链接<a href="https://biliciyun.cf" style="color: #FB7299">biliciyunの小窝</a>
 
 # 本网站公告栏
 注意：！！当前有通知！！<br>
 更新周期：5-6day
-更新时间：2022-07-23 20：47
-本期：20220723<br>
+更新时间：2022-09-3 12：00
+本期：20220903<br>
 20220723期通知<br>
 1.本公告栏每周必会更新一次，音乐每周更新1次<br>
 2.当前网站可通过QQ直接打开，已通过安心计划<br>
