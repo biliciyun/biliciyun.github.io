@@ -3,8 +3,8 @@
   <iframe src="//music.163.com/outchain/player?type=2&id=30352477&auto=0&height=66" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 ## 版权相关<br>
-首先欢迎访问本网站，本网站拥有者一份免责声明，如果不同意，请立即退出本网站，否则即视为同意条款！<br>
- [免责条款](http://biliciyun.cf/bqsm)<br>
+首先欢迎访问本网站，本网站拥有着一份免责声明，如果不同意，请立即退出本网站，否则即视为同意！<br>
+ [免责声明](http://biliciyun.cf/bqsm)<br>
 
 ## 我的相关<br>
  [B站](https://space.bilibili.com/2066547841?spm_id_from=333.1007.0.0)<br>
@@ -15,8 +15,8 @@
  [猫羽雫下载](https://pan.baidu.com/s/1DjSzz8DtzYrtDpywOA_pCw)<br>
  密码：23z1
  
- ## 自认为有用的东西<br>
-  [2380工具](https://biliciyun.cf/2380download)<br>
+## 自认为有用的东西<br>
+ [2380工具](https://biliciyun.cf/2380download)<br>
  
 ## 我的服务器(已经报废)
 游戏模式：生存<br>
@@ -67,3 +67,4 @@
 5.本网站最终解释权归biliciyun（次元幻相的金）所有<br>
 6.友链请联系QQ<br>
 7.已开启QQ机器人至ciyun<br>
+
