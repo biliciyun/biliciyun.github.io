@@ -1,6 +1,6 @@
 
 <div align="center">
-  <iframe src="//music.163.com/outchain/player?type=2&id=30352477&auto=0&height=66" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+  <iframe src="//music.163.com/outchain/player?type=2&id=426027016&auto=0&height=66" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 ## 版权相关<br>
 首先欢迎访问本网站，本网站拥有着一份免责声明，如果不同意，请立即退出本网站，否则即视为同意！<br>
@@ -37,10 +37,19 @@
 
 推荐使用pcl2：[pcl2](https://afdian.net/p/0164034c016c11ebafcb52540025c377)<br>
 
-手机端游戏下载<br>
+手机端游戏下载（解验证版）<br>
 
 推荐使用[苦力怕论坛](https://klpbbs.com/xz/)下载<br>
 或者使用[冬優ちゃんの小窝](https://www.fuibafuyu.cn/Minecraft_for_Android)下载<br>
+
+手机端游戏下载（正版）<br>
+
+ios下载请通过[应用商店](https://apps.apple.com/app/minecraft/id479516143)下载<br>
+android下载请通过[GooglePlay商店](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl)下载<br>
+
+电脑端游戏下载<br>
+
+请在[官方网站](https://www.minecraft.net/zh-hans/store/minecraft-java-bedrock-edition-pc)<br>
 
 ## 我的精品游戏视频
 
@@ -54,17 +63,4 @@
 # -------the end-------
 ## 欢迎下次访问，本站永久链接<a href="https://biliciyun.cf" style="color: #FB7299">biliciyunの小窝</a>
 
-# 本网站公告栏
-注意：！！当前有通知！！<br>
-更新周期：5-6day
-更新时间：2022-09-3 12：00
-本期：20220903<br>
-20220723期通知<br>
-1.本公告栏每周必会更新一次，音乐每周更新1次<br>
-2.当前网站可通过QQ直接打开，已通过安心计划<br>
-3.本周歌曲更新至：渔舟唱晚（cut版）<br>
-4.每周音乐随机在我的网易云歌单中随机<br>
-5.本网站最终解释权归biliciyun（次元幻相的金）所有<br>
-6.友链请联系QQ<br>
-7.已开启QQ机器人至ciyun<br>
 
