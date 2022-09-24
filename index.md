@@ -1,4 +1,4 @@
-
+﻿
 <div align="center">
   <iframe src="//music.163.com/outchain/player?type=2&id=426027016&auto=0&height=66" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
@@ -29,11 +29,8 @@
 
 ## 游戏下载<br>
 
-``` Markdown
-提供的游戏下载链接非正版，请支持正版
-```
 
-电脑端游戏下载<br>
+电脑端游戏下载（解验证版）<br>
 
 推荐使用pcl2：[pcl2](https://afdian.net/p/0164034c016c11ebafcb52540025c377)<br>
 
@@ -47,7 +44,7 @@
 ios下载请通过[应用商店](https://apps.apple.com/app/minecraft/id479516143)下载<br>
 android下载请通过[GooglePlay商店](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl)下载<br>
 
-电脑端游戏下载<br>
+电脑端游戏下载（正版）<br>
 
 请在[官方网站](https://www.minecraft.net/zh-hans/store/minecraft-java-bedrock-edition-pc)<br>
 
