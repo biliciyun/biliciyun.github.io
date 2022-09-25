@@ -9,11 +9,6 @@
 ## 我的相关<br>
  [B站](https://space.bilibili.com/2066547841?spm_id_from=333.1007.0.0)<br>
  [网易云](http://music.163.com/m/user/home?id=4055772206)<br>
- [冬优服务器官方qq群](https://jq.qq.com/?_wv=1027&k=EQc0FDv4)<br>
- 
-## 二次元照片<br>
- [猫羽雫下载](https://pan.baidu.com/s/1DjSzz8DtzYrtDpywOA_pCw)<br>
- 密码：23z1
  
 ## 自认为有用的东西<br>
  [2380工具](https://biliciyun.cf/2380download)<br>
