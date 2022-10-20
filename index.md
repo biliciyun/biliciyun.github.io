@@ -47,12 +47,12 @@ android下载请通过[GooglePlay商店](https://play.google.com/store/apps/deta
 
 请在[官方网站](https://www.minecraft.net/zh-hans/store/minecraft-java-bedrock-edition-pc)<br>
 
-## 我的精品游戏视频
+## 精品游戏视频
 
 <div align="center">
-  <iframe src="//player.bilibili.com/player.html?bvid=BV1GJ411x7h7&cid=137649199&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+  <iframe src="//player.bilibili.com/player.html?bvid=BV1n14y187A7&cid=137649199&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </div>
-作者：索尼音乐中国<br>
+作者：率悦<br>
 
 <div align="center">
   <iframe src="//player.bilibili.com/player.html?bvid=BV1ZF411N7BQ&cid=774273660&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
