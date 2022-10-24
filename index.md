@@ -18,28 +18,28 @@
 游戏模式：生存<br>
 游戏难度：困难<br>
 作弊：否<br>
-在线验证：否（可使用pcl2离线模式进入）<br>
+在线验证：否（无正版验证）<br>
 服务器地址：敬请期待<br>
 本服务器不定时开放
 欢迎来玩哦<br>
 
 ## 游戏下载<br>
 
---电脑端游戏下载（解验证版）<br>
+----电脑端游戏下载（解验证版）<br>
 
 推荐使用pcl2：[pcl2](https://afdian.net/p/0164034c016c11ebafcb52540025c377)进行下载<br>
 
-电脑端游戏下载（正版）<br>
+----电脑端游戏下载（正版）<br>
 
 请在[官方网站](https://www.minecraft.net/zh-hans/store/minecraft-java-bedrock-edition-pc)进行下载<br>
 
---手机端游戏下载（解验证版）<br>
+----手机端游戏下载（解验证版）<br>
 
 推荐使用[苦力怕论坛](https://klpbbs.com/xz/)进行下载<br>
 
 或者使用[冬優ちゃんの小窝](https://www.fuibafuyu.cn/Minecraft_for_Android)进行下载<br>
 
---手机端游戏下载（正版）<br>
+----手机端游戏下载（正版）<br>
 
 ios下载请通过[应用商店](https://apps.apple.com/app/minecraft/id479516143)进行下载<br>
 android下载请通过[Google Play商店](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl)进行下载<br>
