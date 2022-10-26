@@ -56,5 +56,5 @@ android下载请通过[Google Play商店](https://play.google.com/store/apps/det
 
 # -------the end-------
 ## 欢迎下次访问，本站永久链接<a href="https://biliciyun.cf" style="color: #FB7299">biliciyunの小窝</a>
-
+如想对本站赞助，请[点此](http://biliciyun.cf/zanzhu)<br>
 
