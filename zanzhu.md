@@ -5,4 +5,4 @@
 ----------爱发电赞助链接----------<br>
 [爱发电赞助地址](https://afdian.net/a/biliciyun)<br>
 ----------微信赞助----------<br>
-![mm_facetoface_collect_qrcode_1665573619403](https://user-images.githubusercontent.com/104074660/198286632-349da61e-3d56-44d1-bffd-2721a2f2a01b.png)
+![mm_facetoface_collect_qrcode_1665573619403](https://user-images.githubusercontent.com/104074660/198289101-980fd460-0e5e-4b2b-91de-87cd16452bfd.png)
