@@ -2,7 +2,7 @@
 <div align="center">
   <iframe src="//music.163.com/outchain/player?type=2&id=395304&auto=0&height=66" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
-### ！全站祝贺全国人民新年快乐 恭喜发财 大吉大利 长命百岁 年年有鱼！
+
 ## 版权相关<br>
 首先欢迎访问本网站，本网站拥有着一份免责声明，如果不同意，请立即退出本网站，否则即视为同意！<br>
  [免责声明](http://biliciyun.cf/bqsm)<br>
@@ -42,20 +42,16 @@
 
 ----手机端游戏下载（正版）<br>
 
-ios系统下载请通过[应用商店](https://apps.apple.com/app/minecraft/id479516143)进行下载<br>
+ios系统下载请通过其他大区账号的[应用商店](https://apps.apple.com/app/minecraft/id479516143)进行下载<br>
 android系统下载请通过[Google Play商店](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl)进行下载<br>
 
 ## 精品游戏视频
 
 <div align="center">
-  <iframe src="//player.bilibili.com/player.html?bvid=BV1n14y187A7&cid=137649199&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-</div>
-
-<div align="center">
-  <iframe src="//player.bilibili.com/player.html?bvid=BV1ZF411N7BQ&cid=774273660&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+  <iframe src="//player.bilibili.com/player.html?bvid=BV12x411Q72D&cid=137649199&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </div>
 
 # -------the end-------
 ## 欢迎下次访问，本站永久链接<a href="https://biliciyun.cf" style="color: #FB7299">biliciyunの小窝</a>
-如想对本站赞助，请[点此](http://biliciyun.cf/zanzhu)<br>
+如想对本站赞助，请[点击此处](http://biliciyun.cf/zanzhu)<br>
 
