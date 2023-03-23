@@ -26,24 +26,10 @@
 
 ## 游戏下载<br>
 
-----电脑端游戏下载（解验证版）<br>
+Java版游戏下载请[点击此处](http://biliciyun.cf/javagame)<br>
 
-推荐使用pcl2：[pcl2](https://afdian.net/p/0164034c016c11ebafcb52540025c377)进行下载<br>
+基岩版游戏下载请[点击此处](http://biliciyun.cf/jygame)<br>
 
-----电脑端游戏下载（正版）<br>
-
-请在[官方网站](https://www.minecraft.net/zh-hans/store/minecraft-java-bedrock-edition-pc)进行下载<br>
-
-----手机端游戏下载（解验证版）<br>
-
-推荐使用[苦力怕论坛](https://klpbbs.com/xz/)进行下载<br>
-
-或者使用[冬優ちゃんの小窝](https://www.fuibafuyu.cn/Minecraft_for_Android)进行下载<br>
-
-----手机端游戏下载（正版）<br>
-
-ios系统下载请通过其他大区账号的[应用商店](https://apps.apple.com/app/minecraft/id479516143)进行下载<br>
-android系统下载请通过[Google Play商店](https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl)进行下载<br>
 
 ## 精品游戏视频
 
@@ -54,4 +40,4 @@ android系统下载请通过[Google Play商店](https://play.google.com/store/ap
 # -------the end-------
 ## 欢迎下次访问，本站永久链接<a href="https://biliciyun.cf" style="color: #FB7299">biliciyunの小窝</a>
 如想对本站赞助，请[点击此处](http://biliciyun.cf/zanzhu)<br>
-
+7*24小时在线 QQ：2468731905    7*24小时在线电话：无<br>
