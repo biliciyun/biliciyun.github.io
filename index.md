@@ -40,4 +40,5 @@ Java版游戏下载请[点击此处](http://biliciyun.cf/javagame)<br>
 # -------the end-------
 ## 欢迎下次访问，本站永久链接<a href="https://biliciyun.cf" style="color: #FB7299">biliciyunの小窝</a>
 如想对本站赞助，请[点击此处](http://biliciyun.cf/zanzhu)<br>
-7*24小时在线 QQ：2468731905    7*24小时在线电话：无<br>
+工作 QQ：2468731905<br>
+建议邮箱：bilibiliciyun@foxmail.com<br>
