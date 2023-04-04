@@ -100,6 +100,55 @@ catch (e) {
     }
     setInterval(runtime, 1000);
 </script>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+</head>
+
+<body>
+<h1>当前时间是：xx年xx月xx日 星期xx xx:xx:xx</h1>
+
+<script>
+var h1 = document.querySelector('h1');
+var weekStr = '日一二三四五六';
+
+fn(); // 一打开就执行
+setInterval(fn, 1000); // 接着一秒钟以后再执行
+
+function fn() {
+var d = new Date(); // 当前时间
+
+var year = d.getFullYear(); // 年
+var month = d.getMonth() + 1; // 月 0--11
+var day = d.getDate(); // 日
+
+var week = d.getDay(); // 星期 0--6
+
+var h = d.getHours(); // 时
+var m = d.getMinutes(); // 分
+var s = d.getSeconds(); // 秒
+
+h1.innerText = '当前时间是：' + year + '年' + month + '月' + day + '日 星期' + weekStr[week] + ' ' + toTwo(h) + ':' + toTwo(m) + ':' + toTwo(s);
+}
+
+// console.log(toTwo(15));
+// console.log(toTwo(5));
+function toTwo(n) {
+if (n < 10) {
+return '0' + n;
+} else {
+return '' + n;
+}
+}
+</script>
+</body>
+
+</html>
       <div align="center">
         <span>Copyright © Ciyun Network Studio. All Rights Reserved. 2023 版权所有</span>
         <div align="center">
