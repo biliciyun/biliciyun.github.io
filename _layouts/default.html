@@ -111,7 +111,6 @@ catch (e) {
 </head>
 
 <body>
-<h1>当前时间是：xx年xx月xx日 星期xx xx:xx:xx</h1>
 
 <script>
 var h1 = document.querySelector('h1');
@@ -133,7 +132,7 @@ var h = d.getHours(); // 时
 var m = d.getMinutes(); // 分
 var s = d.getSeconds(); // 秒
 
-h1.innerText = '当前时间是：' + year + '年' + month + '月' + day + '日 星期' + weekStr[week] + ' ' + toTwo(h) + ':' + toTwo(m) + ':' + toTwo(s);
+span.innerHTML = '当前时间是：' + year + '年' + month + '月' + day + '日 星期' + weekStr[week] + ' ' + toTwo(h) + ':' + toTwo(m) + ':' + toTwo(s);
 }
 
 // console.log(toTwo(15));
