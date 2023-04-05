@@ -79,39 +79,6 @@ catch (e) {
 }
  
 </script>
-<body>
-<script type="text/javascript" src="jquery.min.js"></script>
-<script type="text/javascript"> 
-  /* 鼠标特效 */
-  var a_idx = 0; 
-  jQuery(document).ready(function($) { 
-      $("body").click(function(e) { 
-          var a = new Array("喵喵喵", "啊啊啊", "嗷嗷嗷", "666", "哔哩哔哩", "梦想", "网络" ,"舒服", "爱你哟", "哎？", "我超", "6捏"); 
-          var $i = $("<span/>").text(a[a_idx]); 
-          a_idx = (a_idx + 1) % a.length; 
-          var x = e.pageX, 
-          y = e.pageY; 
-          $i.css({ 
-              "z-index": 99999, 
-              "top": y - 20, 
-              "left": x, 
-              "position": "absolute", 
-              "font-weight": "bold", 
-              "color": "#ff6651" 
-          }); 
-          $("body").append($i); 
-          $i.animate({ 
-              "top": y - 180, 
-              "opacity": 0 
-          }, 
-          1500, 
-          function() { 
-              $i.remove(); 
-          }); 
-      }); 
-  }); 
-  </script>
-  </body>
       <div align="center">
         <span id="span"></span>
 <script type="text/javascript">
