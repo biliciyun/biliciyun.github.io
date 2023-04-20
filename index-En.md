@@ -6,7 +6,7 @@
 ## Copyright/language related
 1 Copyright related<br>
 First of all, welcome to visit this website, this website has a disclaimer, if you do not agree, please exit this website immediately, otherwise it is deemed to agree!<br>
- [disclaimer](http://biliciyun.cf/bqsm)<br>
+ [disclaimer](http://biliciyun.cf/bqsm-En)<br>
  
 2 Language related<br>
 This website currently has Chinese Simplified and English versions of the website, if you need to switch, please jump to the various language versions of the website below!<br>
@@ -31,9 +31,9 @@ Welcome to play<br>
 
 ## Game download
 
-Java Edition computer game download please[Click here](http://biliciyun.cf/javagame)<br>
+Java Edition computer game download please[Click here](http://biliciyun.cf/javagame-En)<br>
 
-Bedrock Edition mobile/computer game download please[Click here](http://biliciyun.cf/jygame)<br>
+Bedrock Edition mobile/computer game download please[Click here](http://biliciyun.cf/jygame-En)<br>
 
 
 ## Boutique gaming videos
