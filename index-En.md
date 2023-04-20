@@ -47,4 +47,4 @@ Bedrock Edition mobile/computer game download please[Click here](http://biliciyu
 If you would like to sponsor this site, please[Click here](http://biliciyun.cf/zanzhu)<br>
 Network related please[Click here](http://biliciyun.cf/网络说明)<br>
 Some of the views expressed in the content do not represent the views of this site, which is jointly operated by biliciyun (webmaster) and Ciyun Network Studio<br>
-Note: All text on this page is translated into English by bing, if you have any questions, please send email feedback below!<br>
+Note: All text on this page is translated into English by Microsoft, if you have any questions, please send email feedback below!<br>
