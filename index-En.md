@@ -18,7 +18,7 @@ This website currently has Chinese Simplified and English versions of the websit
  Others will not be disclosed for the time being.....<br>
 
 ## Something that you think is useful<br>
-[2380 tools](https://biliciyun.cf/2380download)<br>
+[2380 tools](https://biliciyun.cf/2380download-En)<br>
 
 ## My Server
 Game Mode: Survival<br>
@@ -31,9 +31,9 @@ Welcome to play<br>
 
 ## Game download
 
-Java Edition computer game download please[Click here](http://biliciyun.cf/javagame-En)<br>
+Java Edition computer game download please [Click here](http://biliciyun.cf/javagame-En)<br>
 
-Bedrock Edition mobile/computer game download please[Click here](http://biliciyun.cf/jygame-En)<br>
+Bedrock Edition mobile/computer game download please [Click here](http://biliciyun.cf/jygame-En)<br>
 
 
 ## Boutique gaming videos
@@ -44,7 +44,7 @@ Bedrock Edition mobile/computer game download please[Click here](http://biliciyu
 
 # -------the end-------
 ## Welcome to visit next time, permalink to this site<a href="https://biliciyun.cf" style="color: #FB7299">biliciyunの小窝</a>
-If you would like to sponsor this site, please[Click here](http://biliciyun.cf/zanzhu)<br>
-Network related please[Click here](http://biliciyun.cf/网络说明)<br>
+If you would like to sponsor this site, please [Click here](http://biliciyun.cf/zanzhu-En)<br>
+Network related please [Click here](http://biliciyun.cf/网络说明-En)<br>
 Some of the views expressed in the content do not represent the views of this site, which is jointly operated by biliciyun (webmaster) and Ciyun Network Studio<br>
 Note: All text on this page is translated into English by Microsoft, if you have any questions, please send email feedback below!<br>
