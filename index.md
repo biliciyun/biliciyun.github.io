@@ -9,8 +9,9 @@
  [免责声明](http://biliciyun.cf/bqsm)<br>
 
 2语言相关<br>
-本网站目前拥有简体中文、英语版网站，如需切换请在下方跳转到各种语言版网站！<br>
+本网站目前拥有简体中文、英语版、日语版网站，如需切换请在下方跳转到各种语言版网站！<br>
  [English](https://biliciyun.cf/index-En)<br>
+ [日本語](https://biliciyun.cf/index-日本語)<br>
 
 ## 我的相关
  [B站](https://space.bilibili.com/2066547841?spm_id_from=333.1007.0.0)<br>
