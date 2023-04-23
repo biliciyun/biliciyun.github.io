@@ -47,4 +47,4 @@ Java版电脑游戏下载请[点击此处](http://biliciyun.cf/javagame)<br>
 ## 欢迎下次访问，本站永久链接<a href="https://biliciyun.cf" style="color: #FB7299">biliciyunの小窝</a>
 如想对本站赞助，请[点击此处](http://biliciyun.cf/zanzhu)<br>
 网络相关请[点击此处](http://biliciyun.cf/网络说明)<br>
-内容的部分观点不代表本站观点，本站由biliciyun（站长）和Ciyun网络工作室联合运营<br>
+内容的部分观点不代表本站观点，本站由biliciyun（站长）和Ciyun Network Studio联合运营<br>

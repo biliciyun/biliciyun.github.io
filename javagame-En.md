@@ -2,7 +2,7 @@
 
 ----PC game download (3rd party launcher)<br>
 
-PCL2 is recommended：[Tap me to jump](https://afdian.net/a/LTCat)to download<br>
+PCL2 is recommended：[Click here](https://afdian.net/a/LTCat)to download<br>
 
 ----PC game download (official launcher)<br>
 

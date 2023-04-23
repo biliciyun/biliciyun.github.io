@@ -2,7 +2,7 @@
 
 ----电脑端游戏下载（第三方启动器）<br>
 
-推荐使用PCL2：[点我跳转](https://afdian.net/a/LTCat)进行下载<br>
+推荐使用PCL2：[点击此处](https://afdian.net/a/LTCat)进行下载<br>
 
 ----电脑端游戏下载（官方启动器）<br>
 
