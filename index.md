@@ -21,8 +21,8 @@
 ## 自认为有用的东西
  [2380工具](https://biliciyun.cf/2380download)<br>
  [idm下载器](http://biliciyun.cf/idm-smlz)<br>
- [数码荔枝](http://biliciyun.cf/远低官网价！正版Office2021和Windows11上架优惠.md)<br>
- [AdGuard广告拦截器](http://biliciyun.cf/中国特惠！多平台广告屏蔽专家AdGuard买断仅需119 元起.md)<br>
+ [数码荔枝](http://biliciyun.cf/smlz.md)<br>
+ [AdGuard广告拦截器](http://biliciyun.cf/adguard-smlz.md)<br>
 
 ## 我的服务器
 游戏模式：生存<br>
