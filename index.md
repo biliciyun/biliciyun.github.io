@@ -20,6 +20,7 @@
  
 ## 自认为有用的东西
  [2380工具](https://biliciyun.cf/2380download)<br>
+  [idm下载器](http://biliciyun.cf/idm-smlz)<br>
  
 ## 我的服务器
 游戏模式：生存<br>
