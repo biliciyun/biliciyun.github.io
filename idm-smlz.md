@@ -10,7 +10,7 @@
 IDM - Windows高速下载软件 internet download manager<br>
 Windows 最佳下载工具，静默操作完全无干扰<br>
 价格：￥49.00-109.00 <br>
-购买地址：https://store.lizhi.io/site/products/id/325?cid=4sac0t7f<br>
+购买地址： [点我前往](https://store.lizhi.io/site/products/id/325?cid=4sac0t7)<br>
 
 
 

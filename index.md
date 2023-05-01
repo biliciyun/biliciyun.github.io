@@ -21,8 +21,8 @@
 ## 自认为有用的东西
  [2380工具](https://biliciyun.cf/2380download)<br>
  [idm下载器](http://biliciyun.cf/idm-smlz)<br>
- [数码荔枝](http://biliciyun.cf/smlz.md)<br>
- [AdGuard广告拦截器](http://biliciyun.cf/AdGuard-smlz.md)<br>
+ [数码荔枝](http://biliciyun.cf/smlz)<br>
+ [AdGuard广告拦截器](http://biliciyun.cf/AdGuard-smlz)<br>
 
 ## 我的服务器
 游戏模式：生存<br>
