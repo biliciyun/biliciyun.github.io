@@ -1,6 +1,6 @@
 ﻿
 <div align="center">
-  <iframe src="//music.163.com/outchain/player?type=2&id=434871406&auto=0&height=66" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+  <iframe src="//music.163.com/outchain/player?type=2&id=2034742057&auto=0&height=66" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
 ## 版权/语言相关
@@ -42,7 +42,7 @@ Java版电脑游戏下载请[点击此处](http://biliciyun.cf/javagame)<br>
 ## 精品游戏视频
 
 <div align="center">
-  <iframe src="//player.bilibili.com/player.html?bvid=BV1Lm4y1m7Ea&cid=137649199&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+  <iframe src="//player.bilibili.com/player.html?bvid=BV17M4y1b7qs&cid=137649199&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </div>
 
 # -------the end-------
