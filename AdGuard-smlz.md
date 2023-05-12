@@ -4,7 +4,7 @@
 
 【图1】
 
-点击[合作伙伴][专属优惠链接](https://store.lizhi.io/site/products/id/31?cid=4sac0t7f)，前往数码荔枝下单 AdGuard 终生版最低仅需 **119** 元，会员首单立减后仅需 **114** 元。
+点击[专属优惠链接](https://store.lizhi.io/site/products/id/31?cid=4sac0t7f)，前往数码荔枝下单 AdGuard 终生版最低仅需 **119** 元，会员首单立减后仅需 **114** 元。
 
 ## 全方位广告拦截
 
@@ -30,7 +30,7 @@ AdGuard 还可以通过屏蔽垃圾信息，净化网页和软件，让页面更
 
 【图5】
 
-赶快点击[合作伙伴][专属优惠链接](https://store.lizhi.io/site/products/id/31?cid=4sac0t7f)购买 AdGuard 畅享无广告的清爽体验，终生版仅需 **119** 元起！
+赶快点击[专属优惠链接](https://store.lizhi.io/site/products/id/31?cid=4sac0t7f)购买 AdGuard 畅享无广告的清爽体验，终生版仅需 **119** 元起！
 
 ## 隐私与保护
 
@@ -67,4 +67,4 @@ AdGuard 是一款少见的，能同时在广告拦截和网络安全上有着亮
 
 它是超级聪明的广告屏蔽专家，更是值得信赖的安全防护墙！
 
-马上点击[合作伙伴][专属优惠链接](https://store.lizhi.io/site/products/id/31?cid=4sac0t7f)，AdGuard 终生版最低仅需 **119** 元，会员首单立减后仅需 **114** 元，心动不如行动，马上入手吧！
+马上点击[专属优惠链接](https://store.lizhi.io/site/products/id/31?cid=4sac0t7f)，AdGuard 终生版最低仅需 **119** 元，会员首单立减后仅需 **114** 元，心动不如行动，马上入手吧！
