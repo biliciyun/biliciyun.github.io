@@ -11,7 +11,6 @@ First of all, welcome to visit this website, this website has a disclaimer, if y
 2 Language related<br>
 This website currently has Chinese Simplified, English, and Japanese versions of the website, if you need to switch, please jump to the various language versions below!<br>
  [简体中文](https://biliciyun.cf/)<br>
- [日本語](https://biliciyun.cf/index-日本語)<br>
 
 ## My related
  [bilibili](https://space.bilibili.com/2066547841?spm_id_from=333.1007.0.0)<br>
