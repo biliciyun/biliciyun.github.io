@@ -105,7 +105,7 @@ catch (e) {
     setInterval(runtime, 1000);
 </script>
       <div align="center">
-        <span>Copyright © <a href="https://biliciyun.cf/aboutUS">Ciyun Network Studio</a>. All Rights Reserved. 2022-2023 版权所有</span>
+        <span>Copyright © <a href="https://biliciyun.cf/aboutUS">Ciyun Network Studio</a>. ALL RIGHTS RESERVED. 2022-2023 版权所有</span>
         <div align="center">
            <a href="mailto:bilibiliciyun@foxmail.com?subject=网站相关反馈">Ciyun网络邮箱反馈</a>
            <a href="https://jbts.mct.gov.cn/" target="_blank">全国文化网上举报系统</a>
@@ -113,6 +113,8 @@ catch (e) {
            <a href="https://www.12377.cn/" target="_blank">有害信息举报：<img src="//static.hdslb.com/images/12377.png" width="16" height="16" style="vertical-align: sub;"> 中国互联网违法和不良信息举报中心</a>
       <div align="center">
         <span><a style="color: #ffffff; text-decoration: none; font-weight: normal" href="https://icp.gov.moe/?keyword=20222249" target="_blank"><img style="width:32px;height:32px;margin-bottom:-8px" src="https://icp.gov.moe/images/ico64.png">萌ICP备20222249号</a></span>
+        　|　
+        全国文化市场举报电话：12318
       </div>
       <div id="cc-myssl-id">
    <a href="https://myssl.com/biliciyun.cf?from=mysslid"><img src="https://static.myssl.com/res/images/myssl-id1.png" alt="" style="max-height:50px;display:block;margin:0 auto"></a>
@@ -121,6 +123,25 @@ catch (e) {
         </footer>
     </main>
 </body>
+<div id="goTopBtn"><span class="glyphicon glyphicon-chevron-up">&Delta;</span></div>
+<script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script>
+/*返回顶部*/
+$(window).scroll(function(){
+   var sc=$(window).scrollTop();
+   var rwidth=$(window).width()
+   if(sc>0){
+    $("#goTopBtn").css("display","block");
+    $("#goTopBtn").css("left",(rwidth-36)+"px")
+   }else{
+   $("#goTopBtn").css("display","none");
+   }
+ })
+ $("#goTopBtn").click(function(){
+   var sc=$(window).scrollTop();
+   $('body,html').animate({scrollTop:0},500);
+ })
+   </script>
 
 </html>
   
