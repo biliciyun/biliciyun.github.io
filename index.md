@@ -10,7 +10,7 @@
 
 2语言相关<br>
 本网站目前拥有简体中文、英语版网站，如需切换请在下方跳转到各种语言版网站！<br>
- [English](https://biliciyun.cf/index-En)<br>
+ [English](https://biliciyun.cf/En/index-En)<br>
 
 ## 我的相关
  [B站](https://space.bilibili.com/2066547841?spm_id_from=333.1007.0.0)<br>

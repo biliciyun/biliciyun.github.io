@@ -6,7 +6,7 @@
 金额均自定，赞助后没有任何礼物奖品！<br>
 ----------------------------------------------------<br>
 ## 微信                                       支付宝<br>
-<a href="https://imgse.com/i/p9Q5tbj"><img src="https://s1.ax1x.com/2023/04/27/p9Q5tbj.md.jpg" alt="p9Q5tbj.jpg" border="0" /></a>
+![IMG_6624(20230102-073004)](https://user-images.githubusercontent.com/104074660/210193479-864ad6d2-615d-4994-a51f-23f9c44c3ad6.JPG)
 
 ## 爱发电<br>
 使用爱发电进行赞助的，请[点击此处](https://afdian.net/a/biliciyun)进行赞助<br>

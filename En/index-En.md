@@ -6,7 +6,7 @@
 ## Copyright/language related
 1 Copyright related<br>
 First of all, welcome to visit this website, this website has a disclaimer, if you do not agree, please exit this website immediately, otherwise it is deemed to agree!<br>
- [disclaimer](http://biliciyun.cf/bqsm-En)<br>
+ [disclaimer](http://biliciyun.cf/En/bqsm-En)<br>
  
 2 Language related<br>
 This website currently has Chinese Simplified, English, and Japanese versions of the website, if you need to switch, please jump to the various language versions below!<br>
@@ -18,7 +18,7 @@ This website currently has Chinese Simplified, English, and Japanese versions of
  Others will not be disclosed for the time being.....<br>
 
 ## Something that you think is useful<br>
-[2380 tools](https://biliciyun.cf/2380download-En)<br>
+[2380 tools](https://biliciyun.cf/En/2380download-En)<br>
 
 ## My Server
 Game Mode: Survival<br>
@@ -31,9 +31,9 @@ Welcome to play<br>
 
 ## Game download
 
-Java Edition computer game download please [Click here](http://biliciyun.cf/javagame-En)<br>
+Java Edition computer game download please [Click here](http://biliciyun.cf/En/javagame-En)<br>
 
-Bedrock Edition mobile/computer game download please [Click here](http://biliciyun.cf/jygame-En)<br>
+Bedrock Edition mobile/computer game download please [Click here](http://biliciyun.cf/En/jygame-En)<br>
 
 
 ## Boutique gaming videos
@@ -44,7 +44,7 @@ Bedrock Edition mobile/computer game download please [Click here](http://biliciy
 
 # -------the end-------
 ## Welcome to visit next time, permalink to this site<a href="https://biliciyun.cf" style="color: #FB7299">biliciyunの小窝</a>
-If you would like to sponsor this site, please [Click here](http://biliciyun.cf/zanzhu-En)<br>
-Network related please [Click here](http://biliciyun.cf/网络说明-En)<br>
+If you would like to sponsor this site, please [Click here](http://biliciyun.cf/En/zanzhu-En)<br>
+Network related please [Click here](http://biliciyun.cf/网络说明)<br>
 Some of the views expressed in the content do not represent the views of this site, which is jointly operated by biliciyun (webmaster) and Ciyun Network Studio<br>
 Note: All text on this page is translated into English by Microsoft, if you have any questions, please send email feedback below!<br>
