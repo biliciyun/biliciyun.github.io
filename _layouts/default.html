@@ -99,15 +99,6 @@ catch (e) {
     }
     setInterval(runtime, 1000);
 </script>
-        <div align="center">
-           <a href="https://jbts.mct.gov.cn/" target="_blank">全国文化网上举报系统</a>
-           <a href="https://www.12321.cn/" target="_blank">12321网络不良与垃圾信息举报受理中心</a>
-           <a href="https://www.12377.cn/" target="_blank">有害信息举报：<img src="//static.hdslb.com/images/12377.png" width="16" height="16" style="vertical-align: sub;"> 中国互联网违法和不良信息举报中心</a>
-      <div align="center">
-        <span><a style="color: #ffffff; text-decoration: none; font-weight: normal" href="https://icp.gov.moe/?keyword=20222249" target="_blank"><img style="width:32px;height:32px;margin-bottom:-8px" src="https://icp.gov.moe/images/ico64.png">萌ICP备20222249号</a></span>
-        　|　
-        全国文化市场举报电话：12318
-      </div>
       <div id="cc-myssl-id">
    <a href="https://myssl.com/biliciyun.cf?from=mysslid"><img src="https://static.myssl.com/res/images/myssl-id1.png" alt="" style="max-height:50px;display:block;margin:0 auto"></a>
 </div>
@@ -213,18 +204,18 @@ catch (e) {
         </ul>
       </div>
       <div class="link-list">
-        <h3 class="link-title">标题四</h3>
+        <h3 class="link-title">技术支持</h3>
         <ul>
           <li>
-            <a href="#">444</a>
+            <a href="github.com">托管由Github给予支持</a>
           </li>
           <li>
-            <a href="#">444</a>
+            <a href="www.cloudflare.com">网络支持由cloud flare给予支持</a>
           </li>
         </ul>
       </div>
       <div class="link-list">
-        <h3 class="link-title">标题五</h3>
+        <h3 class="link-title">网站</h3>
         <ul>
           <li>
             <a href="#">555</a>
@@ -262,6 +253,27 @@ catch (e) {
     <span><a style="color: #ffffff; text-decoration: none; font-weight: normal" href="https://icp.gov.moe/?keyword=20222249" target="_blank"><img style="width:32px;height:32px;margin-bottom:-8px" src="https://icp.gov.moe/images/ico64.png">萌ICP备20222249号</a></span>
     　|　
     全国文化市场举报电话：12318
+    　|
+      <span id="span"></span>
+<script type="text/javascript">
+  function runtime(){
+      // 初始时间，日/月/年 时:分:秒
+      X = new Date("04/23/2022 17:30:00");
+      Y = new Date();
+      T = (Y.getTime()-X.getTime());
+      M = 24*60*60*1000;
+      a = T/M;
+      A = Math.floor(a);
+      b = (a-A)*24;
+      B = Math.floor(b);
+      c = (b-B)*60;
+      C = Math.floor((b-B)*60);
+      D = Math.floor((c-C)*60);
+      //信息写入到DIV中
+      span.innerHTML = "本站已特别艰难地运行了: "+A+"天"+B+"小时"+C+"分"+D+"秒"
+  }
+  setInterval(runtime, 1000);
+</script>
   </div>
 
 <div id="goTopBtn"><span class="glyphicon glyphicon-chevron-up">&Delta;</span></div>
