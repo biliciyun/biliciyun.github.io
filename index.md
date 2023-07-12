@@ -42,7 +42,7 @@ Java版电脑游戏下载请[点击此处](http://biliciyun.cf/javagame)<br>
 ## 精品游戏视频
 
 <div align="center">
-  <iframe src="https://i0.hdslb.com/bfs/game-static/c7437ae8bc845fbbe00acea6516670b2d3b7defb.mp4" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+  <iframe src="//player.bilibili.com/player.html?bvid=BV11v4y1V7am&cid=137649199&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </div>
 
 # -------the end-------
