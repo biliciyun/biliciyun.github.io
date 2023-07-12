@@ -1,6 +1,6 @@
 ﻿
 <div align="center">
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1978416165&auto=1&height=66"></iframe>
+  <iframe src="//music.163.com/outchain/player?type=2&id=1978416165&auto=0&height=66" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
 ## 版权/语言相关
