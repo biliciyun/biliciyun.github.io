@@ -31,7 +31,17 @@
   </style>
   {% include head-custom.html %}
 </head>
+  
+    <script>
+        // 检测IE浏览器
+        var isIE = /MSIE|Trident/.test(window.navigator.userAgent);
 
+        // 如果是IE浏览器，重定向到其他页面
+        if (isIE) {
+            window.location.href = "https://ciyun666.github.io/ie_not_supported";
+        }
+    </script>
+  
 <body>
 
   <header class="page-header" role="banner">
