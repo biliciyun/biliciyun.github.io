@@ -1,7 +1,10 @@
 ﻿
 <div align="center">
-  <iframe src="//music.163.com/outchain/player?type=2&id=1978416165&auto=0&height=66" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+  <iframe src="//music.163.com/outchain/player?type=2&id=1859652717&auto=0&height=66" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
+
+# 为世界上所有的美好而战！-from 崩坏3
+# 愿此行，终抵群星！-from 崩坏:星穹铁道
 
 ## 版权/语言相关
 1版权相关<br>
@@ -42,7 +45,7 @@ Java版电脑游戏下载请[点击此处](http://biliciyun.cf/javagame)<br>
 ## 精品游戏视频
 
 <div align="center">
-  <iframe src="//player.bilibili.com/player.html?bvid=BV11v4y1V7am&cid=137649199&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+  <iframe src="//player.bilibili.com/player.html?bvid=BV1aM4y1R77W&cid=137649199&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </div>
 
 # -------the end-------
