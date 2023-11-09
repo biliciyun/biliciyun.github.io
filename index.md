@@ -26,15 +26,6 @@
  [AdGuard广告拦截器](http://biliciyun.cf/AdGuard-smlz)<br>
  [数码荔枝](http://biliciyun.cf/smlz)<br>
 
-## 我的服务器
-游戏模式：生存<br>
-游戏难度：困难<br>
-作弊：否<br>
-在线验证：否（无正版验证）<br>
-服务器地址：[点击加群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=XzzCqUBn2EQe_-48ZSXwzkzFr3apw71H&authKey=IYfq%2FyblSI6du5nt6ggqU%2Fzjk%2FKDK%2BnrdhhKeGHZYCGhoGmVce27kh2m2jfWcOL3&noverify=0&group_code=748625855)<br>
-本服务器不定时开放
-欢迎来玩哦<br>
-
 ## 游戏下载
 
 Java版电脑游戏下载请[点击此处](http://biliciyun.cf/javagame)<br>
