@@ -1,8 +1,6 @@
-﻿
-<div align="center">
-<!-- 使用iframe嵌入音乐播放器 -->
-<iframe src="music_player.html" width="300" height="200" frameborder="0" allowtransparency="true"></iframe>
 
+<div align="center">
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1859652717&auto=1&height=66"></iframe>
 
 ## 版权/语言相关
 1版权相关<br>
