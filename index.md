@@ -3,8 +3,6 @@
 <!-- 使用iframe嵌入音乐播放器 -->
 <iframe src="music_player.html" width="300" height="200" frameborder="0" allowtransparency="true"></iframe>
 
-</body>
-</html>
 
 ## 版权/语言相关
 1版权相关<br>
