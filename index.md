@@ -1,7 +1,10 @@
 ﻿
 <div align="center">
-  <iframe src="//music.163.com/outchain/player?type=2&id=1859652717&auto=0&height=66" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-</div>
+<!-- 使用iframe嵌入音乐播放器 -->
+<iframe src="music_player.html" width="300" height="200" frameborder="0" allowtransparency="true"></iframe>
+
+</body>
+</html>
 
 ## 版权/语言相关
 1版权相关<br>
