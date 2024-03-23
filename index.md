@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 因为音乐播放器对于Android访问时会出现bug，暂时删除！
 
 ## 版权/语言相关
@@ -20,6 +20,15 @@
  [idm下载器](http://biliciyun.github.io/idm-smlz)<br>
  [AdGuard广告拦截器](http://biliciyun.github.io/AdGuard-smlz)<br>
  [数码荔枝](http://biliciyun.github.io/smlz)<br>
+
+## 我的交流群
+聊天模式：啥都聊<br>
+群聊天限制：群公告为准<br>
+管理：6名<br>
+验证：yep（验证）<br>
+交流群地址：[点击加群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=XzzCqUBn2EQe_-48ZSXwzkzFr3apw71H&authKey=IYfq%2FyblSI6du5nt6ggqU%2Fzjk%2FKDK%2BnrdhhKeGHZYCGhoGmVce27kh2m2jfWcOL3&noverify=0&group_code=748625855)<br>
+
+欢迎来玩哦<br>
 
 ## 游戏下载
 
