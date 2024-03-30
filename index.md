@@ -1,4 +1,4 @@
-<!DOCTYPE html>  
+
 <html lang="zh-CN">  
 <head>  
 <meta charset="UTF-8">  
@@ -14,6 +14,7 @@
 <body>  
   
 <div>  
+<div align="center">
     <p>因为音乐播放器对于Android访问时会出现bug，暂时删除！</p>  
 </div>  
   
@@ -50,10 +51,10 @@
 <p>基岩版手机/电脑游戏下载请点击<a href="http://biliciyun.github.io/jygame">此处</a></p>  
   
 <h2>精品游戏视频</h2>  
-<div class="center-iframe">  
-    <iframe src="//player.bilibili.com/player.html?bvid=BV1jK42187sf&cid=137649199&page=1" allowfullscreen="allowfullscreen" width="560" height="315" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>  
-</div>  
+<div align="center">
+  <iframe src="//player.bilibili.com/player.html?bvid=BV1jK42187sf&cid=137649199&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+</div> 
   
 <hr>  
 <p style="text-align: center;">-------the end-------</p>  
-<p style="text-align: center;">欢迎下次访问，本站永久链接 <a href="https://biliciyun.github.io" style="color: #FB72
+<p style="text-align: center;">欢迎下次访问，本站永久链接 <a href="https://biliciyun.github.io" style="color: #FB7299">biliciyunの小窝</a>
