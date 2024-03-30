@@ -1,3 +1,5 @@
+<meta charset="UTF-8">
+
 <div align="center">
 因为音乐播放器对于Android访问时会出现bug，暂时删除！
 
