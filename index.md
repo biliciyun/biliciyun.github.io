@@ -15,7 +15,8 @@
   
 <div>  
 <div align="center">
-    <p>因为音乐播放器对于Android访问时会出现bug，暂时删除！</p>  
+    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2155423468&auto=1&height=66">
+    </iframe>
 </div>  
   
 <h2>版权/语言相关</h2>  
@@ -52,7 +53,7 @@
   
 <h2>精品游戏视频</h2>  
 <div align="center">
-  <iframe src="//player.bilibili.com/player.html?bvid=BV1jK42187sf&cid=137649199&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+  <iframe src="//player.bilibili.com/player.html?bvid=BV15H4y1g7ZL&cid=137649199&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </div> 
   
 <hr>  
