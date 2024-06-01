@@ -19,26 +19,10 @@
     </iframe>
 </div>  
   
-<h2>版权/语言相关</h2>  
-<p>首先欢迎访问本网站，本网站拥有着一份免责声明，如果不同意，请立即退出本网站，否则即视为同意！</p>  
-<a href="http://biliciyun.github.io/bqsm">免责声明</a>  
-  
-<h3>语言相关</h3>  
-<p>本网站目前拥有简体中文、英语版网站，如需切换请在下方跳转到各种语言版网站！</p>  
-<a href="https://biliciyun.github.io/En/index-En">English</a>  
-  
 <h2>我的相关</h2>  
 <a href="https://space.bilibili.com/2066547841?spm_id_from=333.1007.0.0">B站</a>  
 <a href="http://music.163.com/m/user/home?id=4055772206">网易云</a>  
-<p>其他暂时不给予公开...</p>  
-  
-<h2>自认为有用的东西</h2>  
-<ul>  
-    <li><a href="https://biliciyun.github.io/2380download">2380工具</a></li>  
-    <li><a href="http://biliciyun.github.io/idm-smlz">idm下载器</a></li>  
-    <li><a href="http://biliciyun.github.io/AdGuard-smlz">AdGuard广告拦截器</a></li>  
-    <li><a href="http://biliciyun.github.io/smlz">数码荔枝</a></li>  
-</ul>  
+<p>其他暂时不给予公开...</p>   
   
 <h2>我的交流群</h2>  
 <p>聊天模式：啥都聊</p>  
