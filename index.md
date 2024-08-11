@@ -3,7 +3,7 @@
 <head>  
 <meta charset="UTF-8">  
 <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-<title>biliciyunの小窝</title>  
+<title>Ciyunの小窝</title>  
 <style>  
     .center-iframe {  
         display: block;  
@@ -26,8 +26,8 @@
 <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=XzzCqUBn2EQe_-48ZSXwzkzFr3apw71H&authKey=IYfq%2FyblSI6du5nt6ggqU%2Fzjk%2FKDK%2BnrdhhKeGHZYCGhoGmVce27kh2m2jfWcOL3&noverify=0&group_code=748625855">点击加群</a>  
   
 <h2>游戏下载</h2>  
-<p>Java版电脑游戏下载请点击<a href="http://biliciyun.github.io/javagame">此处</a></p>  
-<p>基岩版手机/电脑游戏下载请点击<a href="http://biliciyun.github.io/jygame">此处</a></p>  
+<p>Java版电脑游戏下载请点击<a href="http://ciyun.asia/javagame">此处</a></p>  
+<p>基岩版手机/电脑游戏下载请点击<a href="http://ciyun.asia/jygame">此处</a></p>  
   
 <h2>精品游戏视频</h2>  
 <div align="center">
@@ -36,4 +36,4 @@
   
 <hr>  
 <p style="text-align: center;">-------the end-------</p>  
-<p style="text-align: center;">欢迎下次访问，本站永久链接 <a href="https://biliciyun.github.io" style="color: #FB7299">biliciyunの小窝</a>
+<p style="text-align: center;">欢迎下次访问，本站永久链接 <a href="https://ciyun.asia" style="color: #FB7299">Ciyunの小窝</a>
