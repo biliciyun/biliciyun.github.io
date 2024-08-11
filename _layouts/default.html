@@ -14,17 +14,21 @@
   <meta name="theme-color" content="#FB7299">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-  <script type="text/javascript">
-    function changeBg(){
-      var date = new Date(),
-      time = date.getHours();
-      if(time > 6 && time < 18){
-        document.body.style.backgroundImage="url('https://s21.ax1x.com/2024/08/10/pASWBaF.jpg)";
-      else{
-        document.body.style.backgroundImage="url('https://s21.ax1x.com/2024/08/10/pASWD54.jpg')";
+  <style>
+    body, header::before {
+      background: url(https://s21.ax1x.com/2024/08/10/pASWBaF.jpg) no-repeat center / cover fixed;
     }
-    changeBg();
-    </script>
+    header {  
+      position: relative;
+    }
+    header::before {
+      content: '';
+      position: absolute;
+      top:0; right:0; bottom:0; left:0;
+      filter: blur(8px);
+      z-index: -1;
+    }
+  </style>
   {% include head-custom.html %}
 </head>
   
@@ -112,4 +116,4 @@ $(window).scroll(function(){
    </script>
 
 </html>
-   
+  
