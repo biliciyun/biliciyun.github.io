@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Ciyunの官方网站</title>
+  <title>Ciyunの小窝</title>
   <link rel="icon" type="iamge/webp" sizes="48x48" href="/icon-48.webp">
   <link rel="icon" type="iamge/webp" sizes="32x32" href="/icon-32.webp">
   <link rel="shortcut icon" type="image/x-icon" href="/icon.ico">
@@ -45,7 +45,7 @@
 <body>
 
   <header class="page-header" role="banner">
-    <h1 class="project-name">Ciyunの官方网站</h1>
+    <h1 class="project-name">Ciyunの小窝</h1>
   </header>
 
   <main id="content" class="main-content" role="main">
@@ -70,10 +70,30 @@
     </main>
 </body>
 <div align="center">
-    <p>Copyright © Ciyun Network Studio. ALL RIGHTS RESERVED. 2022-2024 版权所有</p>
+    <p>Copyright © Ciyun Network Studio. ALL RIGHTS RESERVED. 2022-2023 版权所有</p>
     <span><a style="color: #ffffff; text-decoration: none; font-weight: normal" href="https://icp.gov.moe/?keyword=20222249" target="_blank"><img style="width:32px;height:32px;margin-bottom:-8px" src="https://icp.gov.moe/images/ico64.png">萌ICP备20222249号</a></span>
     　|
-    本站第一阶段已于2024年09月15号23：59正式停运，共运行876天6小时30分钟。接下来将有林次云（个人）进行维护。
+    <span id="span"></span>
+    <script type="text/javascript">
+        function runtime(){
+            // 初始时间，日/月/年 时:分:秒
+            X = new Date("04/23/2022 17:30:00");
+            Y = new Date();
+            T = (Y.getTime()-X.getTime());
+            M = 24*60*60*1000;
+            a = T/M;
+            A = Math.floor(a);
+            b = (a-A)*24;
+            B = Math.floor(b);
+            c = (b-B)*60;
+            C = Math.floor((b-B)*60);
+            D = Math.floor((c-C)*60);
+            //信息写入到DIV中
+            span.innerHTML = " 本站已运行: "+A+"天"+B+"小时"+C+"分"+D+"秒"
+        }
+        setInterval(runtime, 1000);
+    </script>
+
 </div> 
 <div id="goTopBtn"><span class="glyphicon glyphicon-chevron-up">&Delta;</span></div>
 <script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
