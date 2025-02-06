@@ -9,7 +9,11 @@
         display: block;  
         margin: 0 auto;  
     }  
-</style>  
+</style> 
+	
+<audio id="bjyy" preload="auto" autoplay="autoplay" loop="loop" >
+      <source src="https://i0.hdslb.com/bfs/game-static/4bc41a6745b769345973ce72801d73101e314c50.mp3" type="audio/mp3">
+    </audio>
 </head>  
 <body>  
   
