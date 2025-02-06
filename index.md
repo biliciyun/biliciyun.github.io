@@ -13,11 +13,7 @@
 </head>  
 <body>  
   
-<div>  
-<div align="center">
-    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2155423468&auto=1&height=66">
-    </iframe>
-</div>  
+
  
 <h2>次云网络</h2>  
 <p>欢迎访问本网站，您可以在本网站中浪费时间</p>   
