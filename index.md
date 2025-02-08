@@ -20,7 +20,7 @@
 <h2>次云网络</h2>  
 <p>欢迎访问本网站，您可以在本网站中浪费时间</p>
 <audio id="bjyy" preload="auto" autoplay="autoplay" loop="loop" >
-      <source src="https://i0.hdslb.com/bfs/game-static/4bc41a6745b769345973ce72801d73101e314c50.mp3" type="audio/mp3">
+      <source src="https://ciyun.asia/4bc41a6745b769345973ce72801d73101e314c50.mp3" type="audio/mp3">
     </audio>
   
 <h2>我的交流群</h2>  
