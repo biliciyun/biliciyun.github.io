@@ -8,8 +8,6 @@
 
 推荐使用[苦力怕论坛](https://klpbbs.com/xz/)进行下载<br>
 
-或者使用[冬優ちゃんの小窝](https://www.fuibafuyu.cn/Minecraft_for_Android)进行下载<br>
-
 ----手机端游戏下载（正版）<br>
 
 ios系统下载请通过其他大区账号的[应用商店](https://apps.apple.com/app/minecraft/id479516143)进行下载<br>
